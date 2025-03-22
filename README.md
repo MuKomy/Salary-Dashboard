@@ -1,5 +1,5 @@
 # Salary Dashboard
-![alt text](9.gif)
+![alt text](Images/9.gif)
 # Introduction
 Data jobs salary dashboard from the data set provided by ##luke##, which includes job title,salary, location, date posted, type and skills to help job seekers get a good idea of the job market.
 
@@ -25,19 +25,19 @@ Data jobs salary dashboard from the data set provided by ##luke##, which include
 - 🔢 Formula Purpose: This formula populates the table below, returning the median salary based on job title, country, and type specified.
 ### 📋 Background Table
 
-![alt text](<Screenshot 2025-03-22 061816.png>)
+![alt text](<Images/Screenshot 2025-03-22 061816.png>)
 
 ### 📉 Dashboard Implementation
-![alt text](<Screenshot 2025-03-22 062144.png>)
+![alt text](<Images/Screenshot 2025-03-22 062144.png>)
 
 ## 📈 Graphs
 ### 🌐 Map
-![alt text](<Screenshot 2025-03-22 060820.png>)
+![alt text](<Images/Screenshot 2025-03-22 060820.png>)
 ### 📊 Job Salaries Bar Chart
-![alt text](<Screenshot 2025-03-22 060744.png>)
+![alt text](<Images/Screenshot 2025-03-22 060744.png>)
 
 ### 🏢 Job Type Bar Chart
-![alt text](<Screenshot 2025-03-22 060723.png>)
+![alt text](<Images/Screenshot 2025-03-22 060723.png>)
 
 ## ❎ Data Validation
 🔍 Filtered List  
@@ -46,7 +46,7 @@ Data jobs salary dashboard from the data set provided by ##luke##, which include
 🚫 Incorrect or inconsistent entries are prevented  
 👥 Overall usability of the dashboard is enhanced  
 
-![alt text](<Screenshot 2025-03-22 063049.png>)
+![alt text](<Images/Screenshot 2025-03-22 063049.png>)
 
 # Dataset
 
