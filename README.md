@@ -1,7 +1,7 @@
 # Salary Dashboard
 ![alt text](Images/9.gif)
 # Introduction
-Data jobs salary dashboard from the data set provided by ##luke##, which includes job title,salary, location, date posted, type and skills to help job seekers get a good idea of the job market.
+Data jobs salary dashboard from the data set provided by [Luke Barousse](https://www.youtube.com/@LukeBarousse), which includes job title,salary, location, date posted, type and skills to help job seekers get a good idea of the job market.
 
 
 
